@@ -1,20 +1,7 @@
 [
-	{"keys": ["ctrl+shift+c"], "command": "chat_gpt_v2"},
-	{
-        "keys": ["alt+shift+c"],
-        "command": "chat_gpt"
-    },
-    {
-    "keys": ["ctrl+alt+g"],
-    "command": "gpt_api"
-    },
     {
     "keys": ["ctrl+alt+h"],
     "command": "gpt_api_second"
-    },
-    {
-    "keys": ["ctrl+alt+j"],
-    "command": "gpt_api_create_comment"
     },
     {
     "keys": ["ctrl+alt+k"],
