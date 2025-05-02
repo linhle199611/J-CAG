@@ -6,8 +6,11 @@ To use this plug-in, simply obtain an API key from the OpenAI website. https://p
 Then, place the two Python files in the appropriate location within the Sublime Text directory. 
 
 Below is an example showing where I saved these files on my machine.
+
 ~/Library/Application Support/Sublime Text/Packages/User/add_gutter_symbol.py
+
 ~/Library/Application Support/Sublime Text/Packages/User/gpt_integration_2.py
+
 ~/Library/Application Support/Sublime Text/Packages/Default/Default (OSX).sublime-keymap
 
 You can also create a new plug-in and copy the source code into the new Python file. Sublime Text will automatically save the file in the appropriate location.
