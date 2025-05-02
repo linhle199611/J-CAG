@@ -12,3 +12,5 @@ Below is an example showing where I saved these files on my machine.
 
 You can also create a new plug-in and copy the source code into the new Python file. Sublime Text will automatically save the file in the appropriate location.
 Tools -> Developer -> New Plugin...
+
+Here is the complete description of J-CAG: https://scholarworks.sjsu.edu/etd_projects/1424/
